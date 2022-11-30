@@ -27,6 +27,10 @@ https://github.com/thaisconto/java-basico/blob/main/usuario.java
       -Idade
       -Nota
 https://github.com/thaisconto/java-basico/blob/main/boletimEstudantil.java
+
+        -Turno
+https://github.com/thaisconto/Bootcamp-QA/blob/main/qualSeuTurno.java
+
       -Tabuada
 ## -Arrays: 
       -Multidimensional
