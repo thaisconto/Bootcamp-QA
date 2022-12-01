@@ -22,7 +22,10 @@ Criar esboço de um livro de de receitas utilizando o Typora
 
       
 ## -Loop: 
-[simulando uma SmartTv]
+Simulando uma SmartTv
+[TV](https://github.com/thaisconto/Bootcamp-QA/blob/main/SmartTv.java)
+[Usuário](https://github.com/thaisconto/Bootcamp-QA/blob/main/usuario.java)
+
 [Fatorial]
 [Impar e par]
 [Maior e média]
