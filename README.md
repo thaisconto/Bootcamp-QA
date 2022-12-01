@@ -50,6 +50,16 @@ Simulando uma SmartTv
 
 ## -Colletions:
 -List
+
+[Criar List](https://github.com/thaisconto/Bootcamp-QA/blob/main/criarListas.java)
+
+[Programa Crime](https://github.com/thaisconto/Bootcamp-QA/blob/main/ProgramaCrime.java)
+
+[Ordenação List](https://github.com/thaisconto/Bootcamp-QA/blob/main/ordenacaoList.java)
+
+[Temperaturas](https://github.com/thaisconto/Bootcamp-QA/blob/main/Temperaturas.java)
+
+
 -Set
 -Map
 -Stream API
