@@ -14,8 +14,11 @@ Criar esboço de um livro de de receitas utilizando o Typora
 
 # **Java-básico:**
 ## -Exercícios:
-[variáveis]
-[tipos de variáveis]
+[varáveis 1](https://github.com/thaisconto/Bootcamp-QA/blob/main/aboutMe.java)
+
+[variáveis 2](https://github.com/thaisconto/Bootcamp-QA/blob/main/tiposVariaveis.java)
+
+[variáveis 3](https://github.com/thaisconto/Bootcamp-QA/blob/main/MinhaClasse.java)
 
       
 ## -Loop: 
@@ -24,7 +27,8 @@ Criar esboço de um livro de de receitas utilizando o Typora
 [Impar e par]
 [Maior e média]
 [Idade]
-[Nota]
+[Boletim](https://github.com/thaisconto/Bootcamp-QA/blob/main/boletimEstudantil.java)
+
 [Turno](https://github.com/thaisconto/Bootcamp-QA/blob/main/qualSeuTurno.java)
 
 
