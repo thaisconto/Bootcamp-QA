@@ -50,7 +50,7 @@ Simulando uma SmartTv
 [Ordem iversa](https://github.com/thaisconto/Bootcamp-QA/blob/main/ordem.java)
 
 ## -Colletions:
--List
+**-List**
 
 [Criar List](https://github.com/thaisconto/Bootcamp-QA/blob/main/criarListas.java)
 
@@ -61,7 +61,7 @@ Simulando uma SmartTv
 [Temperaturas](https://github.com/thaisconto/Bootcamp-QA/blob/main/Temperaturas.java)
 
 
--Set
+**-Set**
 
 [Exemplo HashSet](https://github.com/thaisconto/Bootcamp-QA/blob/main/exemploHashSet.java)
 
@@ -69,7 +69,7 @@ Simulando uma SmartTv
 
 [Tipos de Linguagem](https://github.com/thaisconto/Bootcamp-QA/blob/main/tiposLinguagem.java)
 
--Map
+**-Map**
 
 [População Estado](https://github.com/thaisconto/Bootcamp-QA/blob/main/populacaoEstado.java)
 
@@ -79,7 +79,8 @@ Simulando uma SmartTv
 
 [Lançamento de dados](https://github.com/thaisconto/Bootcamp-QA/blob/main/lancamentoDeDados.java)
 
--Stream API
+**-Stream API**
+
 [Exercício](https://github.com/thaisconto/Bootcamp-QA/blob/main/ExercicioStreamAPI.java)
 
 ## **Desafios DIO:**
@@ -94,6 +95,7 @@ Simulando uma SmartTv
 [Média e Idade](https://github.com/thaisconto/Bootcamp-QA/blob/main/mediaEIdade.java)
 
 Classes Bootcamp
+
 [Mentoria](https://github.com/thaisconto/Bootcamp-QA/blob/main/Mentoria.java)
 [Main](https://github.com/thaisconto/Bootcamp-QA/blob/main/Main.java)
 [Dev](https://github.com/thaisconto/Bootcamp-QA/blob/main/Dev.java)
