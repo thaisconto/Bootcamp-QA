@@ -61,6 +61,13 @@ Simulando uma SmartTv
 
 
 -Set
+
+[Exemplo HashSet](https://github.com/thaisconto/Bootcamp-QA/blob/main/exemploHashSet.java)
+
+[Séries Favoritas](https://github.com/thaisconto/Bootcamp-QA/blob/main/SeriesFavoritas.java)
+
+[Tipos de Linguagem](https://github.com/thaisconto/Bootcamp-QA/blob/main/tiposLinguagem.java)
+
 -Map
 
 [População Estado](https://github.com/thaisconto/Bootcamp-QA/blob/main/populacaoEstado.java)
@@ -72,6 +79,7 @@ Simulando uma SmartTv
 [Lançamento de dados](https://github.com/thaisconto/Bootcamp-QA/blob/main/lancamentoDeDados.java)
 
 -Stream API
+[Exercício](https://github.com/thaisconto/Bootcamp-QA/blob/main/ExercicioStreamAPI.java)
 
 ## **Desafios DIO:**
       
