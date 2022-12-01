@@ -26,13 +26,19 @@ Simulando uma SmartTv
 [TV](https://github.com/thaisconto/Bootcamp-QA/blob/main/SmartTv.java)
 [Usuário](https://github.com/thaisconto/Bootcamp-QA/blob/main/usuario.java)
 
-[Fatorial]
-[Impar e par]
-[Maior e média]
-[Idade]
+[Fatorial(https://github.com/thaisconto/Bootcamp-QA/blob/main/fatorial.java)
+
+[Impar e par](https://github.com/thaisconto/Bootcamp-QA/blob/main/imparPar.java)
+
+[Maior e média](https://github.com/thaisconto/Bootcamp-QA/blob/main/maiorEMedia.java)
+
+[Nome e Idade](https://github.com/thaisconto/Bootcamp-QA/blob/main/nomeIdade.java)
+
 [Boletim](https://github.com/thaisconto/Bootcamp-QA/blob/main/boletimEstudantil.java)
 
 [Turno](https://github.com/thaisconto/Bootcamp-QA/blob/main/qualSeuTurno.java)
+
+[Nota](https://github.com/thaisconto/Bootcamp-QA/blob/main/nota.java)
 
 
       -Tabuada
