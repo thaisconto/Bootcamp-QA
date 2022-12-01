@@ -43,9 +43,11 @@ Simulando uma SmartTv
 
 ## -Arrays: 
 [Multidimensional]
-[Consoantes]
-[Números aleatórios]
-[Ordem iversa]
+[Consoantes](https://github.com/thaisconto/Bootcamp-QA/blob/main/consoantes.java)
+
+[Números aleatórios](https://github.com/thaisconto/Bootcamp-QA/blob/main/numerosAleatorios.java)
+
+[Ordem iversa](https://github.com/thaisconto/Bootcamp-QA/blob/main/ordem.java)
 
 ## -Colletions:
 -List
