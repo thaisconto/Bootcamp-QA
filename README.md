@@ -26,7 +26,7 @@ Simulando uma SmartTv
 [TV](https://github.com/thaisconto/Bootcamp-QA/blob/main/SmartTv.java)
 [Usuário](https://github.com/thaisconto/Bootcamp-QA/blob/main/usuario.java)
 
-[Fatorial(https://github.com/thaisconto/Bootcamp-QA/blob/main/fatorial.java)
+[Fatorial](https://github.com/thaisconto/Bootcamp-QA/blob/main/fatorial.java)
 
 [Impar e par](https://github.com/thaisconto/Bootcamp-QA/blob/main/imparPar.java)
 
@@ -41,7 +41,6 @@ Simulando uma SmartTv
 [Nota](https://github.com/thaisconto/Bootcamp-QA/blob/main/nota.java)
 
 
-      -Tabuada
 ## -Arrays: 
 [Multidimensional]
 [Consoantes]
@@ -82,4 +81,21 @@ Simulando uma SmartTv
 [Exercício](https://github.com/thaisconto/Bootcamp-QA/blob/main/ExercicioStreamAPI.java)
 
 ## **Desafios DIO:**
-      
+[Qual seu turno?](https://github.com/thaisconto/Bootcamp-QA/blob/main/qualSeuTurno.java)
+
+[Percentual de desconto](https://github.com/thaisconto/Bootcamp-QA/blob/main/percentualDesconto.java)
+
+[Nomes na fila](https://github.com/thaisconto/Bootcamp-QA/blob/main/nomesFila.java)
+
+[Menor Multiplo](https://github.com/thaisconto/Bootcamp-QA/blob/main/menorMultiplo.java)
+
+[Média e Idade](https://github.com/thaisconto/Bootcamp-QA/blob/main/mediaEIdade.java)
+
+Classes Bootcamp
+[Mentoria](https://github.com/thaisconto/Bootcamp-QA/blob/main/Mentoria.java)
+[Main](https://github.com/thaisconto/Bootcamp-QA/blob/main/Main.java)
+[Dev](https://github.com/thaisconto/Bootcamp-QA/blob/main/Dev.java)
+[Curso](https://github.com/thaisconto/Bootcamp-QA/blob/main/Curso.java)
+[Conteúdo](https://github.com/thaisconto/Bootcamp-QA/blob/main/Conteudo.java)
+[BootCamp](https://github.com/thaisconto/Bootcamp-QA/blob/main/Bootcamp.java)
+
