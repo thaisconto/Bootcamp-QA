@@ -6,7 +6,9 @@ Entender e criar um fluxo de trabalho e um exemplo de [User story](https://githu
 
 # **Typora:**
 Criar esboço de um livro de de receitas utilizando o Typora
+
 [livro](https://github.com/thaisconto/Bootcamp-QA/blob/main/livro.md)
+
 [receita](https://github.com/thaisconto/Bootcamp-QA/blob/main/receita.md)
 
 
