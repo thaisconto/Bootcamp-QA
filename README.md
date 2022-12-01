@@ -5,7 +5,9 @@ Por meio do BOOTCAMP GFT Quality Assurance Para Mulheres pude aprender os seguin
 
 
 # **Typora:**
-[Criar esboço de um livro de de receitas utilizando o Typora]
+Criar esboço de um livro de de receitas utilizando o Typora
+[livro](https://github.com/thaisconto/Bootcamp-QA/blob/main/livro.md)
+[receita](https://github.com/thaisconto/Bootcamp-QA/blob/main/receita.md)
 
 
 # **Java-básico:**
