@@ -22,8 +22,9 @@ Criar esboço de um livro de de receitas utilizando o Typora
 
       
 ## -Loop: 
-Simulando uma SmartTv
+Simulando uma SmartTv:
 [TV](https://github.com/thaisconto/Bootcamp-QA/blob/main/SmartTv.java)
+e
 [Usuário](https://github.com/thaisconto/Bootcamp-QA/blob/main/usuario.java)
 
 [Fatorial](https://github.com/thaisconto/Bootcamp-QA/blob/main/fatorial.java)
@@ -95,11 +96,10 @@ Simulando uma SmartTv
 [Média e Idade](https://github.com/thaisconto/Bootcamp-QA/blob/main/mediaEIdade.java)
 
 Classes Bootcamp
-
-[Mentoria](https://github.com/thaisconto/Bootcamp-QA/blob/main/Mentoria.java)
-[Main](https://github.com/thaisconto/Bootcamp-QA/blob/main/Main.java)
-[Dev](https://github.com/thaisconto/Bootcamp-QA/blob/main/Dev.java)
-[Curso](https://github.com/thaisconto/Bootcamp-QA/blob/main/Curso.java)
-[Conteúdo](https://github.com/thaisconto/Bootcamp-QA/blob/main/Conteudo.java)
+[Mentoria](https://github.com/thaisconto/Bootcamp-QA/blob/main/Mentoria.java)-
+[Main](https://github.com/thaisconto/Bootcamp-QA/blob/main/Main.java)-
+[Dev](https://github.com/thaisconto/Bootcamp-QA/blob/main/Dev.java)-
+[Curso](https://github.com/thaisconto/Bootcamp-QA/blob/main/Curso.java)-
+[Conteúdo](https://github.com/thaisconto/Bootcamp-QA/blob/main/Conteudo.java)-
 [BootCamp](https://github.com/thaisconto/Bootcamp-QA/blob/main/Bootcamp.java)
 
