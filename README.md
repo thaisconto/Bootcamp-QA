@@ -62,6 +62,15 @@ Simulando uma SmartTv
 
 -Set
 -Map
+
+[População Estado](https://github.com/thaisconto/Bootcamp-QA/blob/main/populacaoEstado.java)
+
+[Carros](https://github.com/thaisconto/Bootcamp-QA/blob/main/exemploMapCarros.java)
+
+[Ordenação](https://github.com/thaisconto/Bootcamp-QA/blob/main/exemploOrdenacaoMap.java)
+
+[Lançamento de dados](https://github.com/thaisconto/Bootcamp-QA/blob/main/lancamentoDeDados.java)
+
 -Stream API
 
 ## **Desafios DIO:**
