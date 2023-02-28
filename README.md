@@ -117,3 +117,9 @@ Classes Bootcamp
 [Conteúdo](https://github.com/thaisconto/Bootcamp-QA/blob/main/Conteudo.java)-
 [BootCamp](https://github.com/thaisconto/Bootcamp-QA/blob/main/Bootcamp.java)
 
+Tratamento de Exceptions
+[Checked Exception]()
+[Exception Customizada]()
+[Unchecked Exception]()
+
+
