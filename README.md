@@ -96,17 +96,17 @@ e
 
 [Média e Idade](https://github.com/thaisconto/Bootcamp-QA/blob/main/mediaEIdade.java)
 
-[POO]()
+[POO](https://github.com/thaisconto/Bootcamp-QA/blob/main/desafioPOO.java)
 
-[Diferença de Dígitos]()
+[Diferença de Dígitos](https://github.com/thaisconto/Bootcamp-QA/blob/main/DiferencaDigitos.java)
 
-[Flecha, escudo e espada]()
+[Flecha, escudo e espada](https://github.com/thaisconto/Bootcamp-QA/blob/main/FlechaEscudoEspada.java)
 
-[Número Feliz]()
+[Número Feliz](https://github.com/thaisconto/Bootcamp-QA/blob/main/NumeroFeliz.java)
 
-[Quantidade Necessária]()
+[Quantidade Necessária](https://github.com/thaisconto/Bootcamp-QA/blob/main/QuantidadeNecessaria.java)
 
-[RPG]()
+[RPG](https://github.com/thaisconto/Bootcamp-QA/blob/main/RPG.java)
 
 
 Classes Bootcamp
@@ -118,8 +118,11 @@ Classes Bootcamp
 [BootCamp](https://github.com/thaisconto/Bootcamp-QA/blob/main/Bootcamp.java)
 
 ## **Tratamento de Exceptions**
-[Checked Exception]()
-[Exception Customizada]()
-[Unchecked Exception]()
+
+[Checked Exception](https://github.com/thaisconto/Bootcamp-QA/blob/main/CheckedException.java)
+
+[Exception Customizada](https://github.com/thaisconto/Bootcamp-QA/blob/main/ExceptionCustomizada_1.java)
+
+[Unchecked Exception](https://github.com/thaisconto/Bootcamp-QA/blob/main/UncheckedException.java)
 
 
