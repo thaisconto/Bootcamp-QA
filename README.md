@@ -96,6 +96,19 @@ e
 
 [Média e Idade](https://github.com/thaisconto/Bootcamp-QA/blob/main/mediaEIdade.java)
 
+[POO]()
+
+[Diferença de Dígitos]()
+
+[Flecha, escudo e espada]()
+
+[Número Feliz]()
+
+[Quantidade Necessária]()
+
+[RPG]()
+
+
 Classes Bootcamp
 [Mentoria](https://github.com/thaisconto/Bootcamp-QA/blob/main/Mentoria.java)-
 [Main](https://github.com/thaisconto/Bootcamp-QA/blob/main/Main.java)-
